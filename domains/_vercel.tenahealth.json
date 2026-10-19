@@ -1,6 +1,7 @@
 {
   "owner": {
-    "username": "edenbekg"
+    "username": "edenbekg",
+    "email": "edenbekg@gmail.com"
   },
   "records": {
     "TXT": "vc-domain-verify=tenahealth.is-a.dev,a493a97393defa02dfb4"
